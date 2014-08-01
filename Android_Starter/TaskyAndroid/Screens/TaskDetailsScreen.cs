@@ -4,6 +4,7 @@ using Android.OS;
 using Android.Widget;
 using Tasky.Core;
 using TaskyAndroid;
+using Android.Views;
 
 namespace TaskyAndroid.Screens {
 	/// <summary>
@@ -29,6 +30,16 @@ namespace TaskyAndroid.Screens {
 			
 			// set our layout to be the home screen
 			SetContentView(Resource.Layout.TaskDetails);
+
+			View titleView = Window.FindViewById (Android.Resource.Id.Title);
+			if (titleView != null) {
+				IViewParent parent = titleView.Parent;
+				if (parent != null && (parent is View)) {
+					View parentView = (View)parent;
+					parentView.SetBackgroundColor (Android.Graphics.Color.Rgb (0x26, 0x75, 0xFF));
+				}
+			}
+
 			nameTextEdit = FindViewById<EditText>(Resource.Id.NameText);
 			notesTextEdit = FindViewById<EditText>(Resource.Id.NotesText);
 			saveButton = FindViewById<Button>(Resource.Id.SaveButton);
