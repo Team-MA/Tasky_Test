@@ -32,7 +32,7 @@ namespace TaskyAndroid.Screens {
 			nameTextEdit = FindViewById<EditText>(Resource.Id.NameText);
 			notesTextEdit = FindViewById<EditText>(Resource.Id.NotesText);
 			saveButton = FindViewById<Button>(Resource.Id.SaveButton);
-			doneCheckBox = FindViewById<CheckBox> (Resource.Id.chkDone);
+			doneCheckBox = FindViewById<CheckBox> (Resource.Id.Done);
 
 			doneCheckBox.Checked = task.Done;
 			
