@@ -1,0 +1,31 @@
+# Version: 7.2.5.5 (87026b6)
+# [first argument, ignore] # /Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/iOS_Starter/TaskyiOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/iOS_Starter/TaskyiOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/iOS_Starter/TaskyiOS/bin/iPhoneSimulator/Debug/TaskyiOS.app \
+	-r \
+	/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/iOS_Starter/Tasky.Core/bin/Debug/Tasky.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/MonoTouch.Dialog-1.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.1 \
+	-targetver \
+	3.1 \
+	--abi=i386 \
+	/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/iOS_Starter/TaskyiOS/bin/iPhoneSimulator/Debug/Tasky.exe \

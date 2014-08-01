@@ -1,0 +1,2 @@
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/TaskyAndroid/bin/Debug/TaskyAndroid.dll
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/bin/Debug/Tasky.Core.Anroid.dll

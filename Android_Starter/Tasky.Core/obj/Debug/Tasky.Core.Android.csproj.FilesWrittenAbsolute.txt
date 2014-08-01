@@ -1,0 +1,11 @@
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/obj/Debug/MonoAndroid,Version=v2.3.AssemblyAttribute.cs
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/obj/Debug/Tasky.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/bin/Debug/Tasky.Core.Anroid.dll.mdb
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/bin/Debug/Tasky.Core.Anroid.dll
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/bin/Debug/Tasky.Core.Anroid.apk
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/obj/Debug/android/bin/Tasky.Core.Anroid.apk
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/obj/Debug/R.cs.flag
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/bin/Debug/Tasky.Core.Anroid-Signed.apk
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/obj/Debug/uploadflags.txt
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/obj/Debug/Tasky.Core.Anroid.dll
+/Users/MaxSolodarenko/Desktop/Team-MA/Tasky/Tasky_Test/Android_Starter/Tasky.Core/obj/Debug/Tasky.Core.Anroid.dll.mdb
